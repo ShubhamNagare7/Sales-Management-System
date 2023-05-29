@@ -1,4 +1,4 @@
 # Sales-Management-System
 
-GUI - Using Tkinter
-MySQL Database Connectivity
+1. GUI - Using Tkinter
+2. MySQL Database Connectivity
